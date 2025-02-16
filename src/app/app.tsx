@@ -1,5 +1,6 @@
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { FunctionComponent, Suspense } from 'react';
-import { QueryClient, QueryClientProvider } from 'react-query';
+
 import { BrowserRouter } from 'react-router-dom';
 
 const queryClient = new QueryClient();

@@ -7,8 +7,8 @@
 		"importsNotUsedAsValues": "remove",
 		"jsx": "react-jsx",
 		"lib": ["DOM", "DOM.Iterable", "ESNext"],
-		"module": "esNext",
-		"moduleResolution": "node",
+		"module": "ESNext",
+		"moduleResolution": "bundler",
 		"noEmit": true,
 		"noImplicitAny": true,
 		"paths": {

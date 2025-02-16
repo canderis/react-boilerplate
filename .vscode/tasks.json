@@ -1,18 +1,3 @@
 {
-	"version": "2.0.0",
-	"tasks": [
-		{
-			"type": "npm",
-			"script": "ts:watch",
-			"problemMatcher": "$tsc-watch",
-			"isBackground": true,
-			"runOptions": {
-				"runOn": "folderOpen"
-			},
-			"presentation": {
-				"reveal": "silent",
-				"revealProblems": "onProblem"
-			}
-		}
-	]
+	"version": "2.0.0"
 }
