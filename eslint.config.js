@@ -19,6 +19,8 @@ export default [
 			'react/react-in-jsx-scope': 'off',
 			'no-unused-vars': 'warn',
 			'prettier/prettier': ['warn', {}, { usePrettierrc: true }],
+			'@typescript-eslint/no-unused-vars': 'warn',
+			'@typescript-eslint/no-explicit-any': 'warn',
 		},
 	},
 ];
