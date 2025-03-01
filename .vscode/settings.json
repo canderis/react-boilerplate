@@ -1,12 +1,9 @@
 {
-	"css.validate": false,
 	"editor.formatOnSave": true,
 	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": "explicit",
-		"source.fixAll.stylelint": "explicit"
+		"source.fixAll.biome": "explicit"
 	},
 	"editor.quickSuggestions": {
 		"strings": true
-	},
-	"eslint.lintTask.enable": true
+	}
 }
